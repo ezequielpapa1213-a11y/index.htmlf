@@ -1185,6 +1185,10 @@ h1{
     flex-direction: column;
     align-items: flex-start;
   }
+  .personall{
+    width: 200px;
+    height: 200px;
+  }
 }
 
 
@@ -1336,6 +1340,7 @@ section {
 .texto{
   width: 60%;
   padding: 1rem;
+  height: auto;
 }
 .personal{
   width: 300px;
