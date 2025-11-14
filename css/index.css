@@ -427,9 +427,11 @@ text-align: center;
 .btn-1{
   margin-top: 1px;
 }
-.servicio{
+.servicios{
   gap: 0px;
   padding: 1rem;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 }
 .contenedor{
